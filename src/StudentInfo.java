@@ -8,7 +8,6 @@ public class StudentInfo {
     //}
 
     // Declare Attributes
-
     String FN;
     String Ln;
     int ID;
