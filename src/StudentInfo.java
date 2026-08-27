@@ -18,6 +18,13 @@ public class StudentInfo {
         // Reference variable or StudentInfo-type variable
         StudentInfo st_1;
         st_1 = new StudentInfo();
+        System.out.println(st_1);
+
+        StudentInfo st_2;
+        st_2 = new StudentInfo();
+        System.out.println(st_2);
+
+
 
         int i;
         i = 10;
