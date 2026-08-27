@@ -14,6 +14,14 @@ public class StudentInfo {
     double COP;
 
     public static void main(String[] args) {
+
+        // Reference variable or StudentInfo-type variable
+        StudentInfo st_1;
+        st_1 = new StudentInfo();
+
+        int i;
+        i = 10;
+
         System.out.println("Hello Java!");
 
     }
