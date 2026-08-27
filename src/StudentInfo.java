@@ -9,7 +9,7 @@ public class StudentInfo {
 
     // Declare Attributes
     String FN;
-    String Ln;
+    String LN;
     int ID;
     double COP;
 
