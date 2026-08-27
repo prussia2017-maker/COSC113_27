@@ -6,6 +6,14 @@ public class StudentInfo {
     // Return_Type (void) METHOD_NAME (main) (PARAM_Type PARAM_Name){
     // RELEVANT CODES
     //}
+
+    // Declare Attributes
+
+    String FN;
+    String Ln;
+    int ID;
+    double COP;
+
     public static void main(String[] args) {
         System.out.println("Hello Java!");
 
