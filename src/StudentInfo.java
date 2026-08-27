@@ -10,8 +10,8 @@ public class StudentInfo {
     // Declare Attributes
     String FN;
     String LN;
-    int ID;
-    double COP;
+    int Std;
+    double CGP;
 
     public static void main(String[] args) {
 
